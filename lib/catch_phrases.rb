@@ -9,3 +9,10 @@ def toadstool
 end
 #method -> link
 #puts "It's dangerous..."
+def link
+  puts "It's Dangerous To Go Alone! Take This."
+end
+
+#method -> any_phrase
+#arg -> "somephrase"
+#puts any_phrase
