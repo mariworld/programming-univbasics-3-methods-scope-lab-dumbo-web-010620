@@ -16,3 +16,7 @@ end
 #method -> any_phrase
 #arg -> "somephrase"
 #puts any_phrase
+def any_phrase(phrase)
+  phrase = "I'm the man!"
+  phrase
+end
