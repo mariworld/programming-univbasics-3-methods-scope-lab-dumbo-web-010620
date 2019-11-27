@@ -17,6 +17,6 @@ end
 #arg -> "somephrase"
 #puts any_phrase
 def any_phrase(phrase)
-  phrase = "I'm the man!"
+  phrase = "Do A Barrel Roll!"
   phrase
 end
